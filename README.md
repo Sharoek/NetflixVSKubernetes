@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository explores and compares two service discovery tools: Netflix Eureka and Kubernetes Service Discovery. The goal is to benchmark their performance and evaluate their ease of use in different scenarios.
+This repository explores and compares two service discovery tools: Netflix Eureka and Kubernetes Service Discovery. The goal is to evaluate their ease of use in different scenarios.
 
 ## Objectives
 * Compare Netflix Eureka and Kubernetes Service Discovery.
